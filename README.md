@@ -1,6 +1,8 @@
 # appmlhdfe
 Asymmetric Poisson regression with high dimensional fixed effects Use appmlhdfe With STATA 19
 
+https://www.youtube.com/watch?v=GgQugbULWZ4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
